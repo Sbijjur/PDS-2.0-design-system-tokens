@@ -1,0 +1,16 @@
+
+{
+  "name": "PDS 2.0 Design System",
+  "version": "1.0",
+  "type": "design-system",
+  "tokens": {
+    "components": "tokens/components.json",
+    "semantics": "tokens/semantics.json",
+    "primitives": "tokens/primitives.json"
+  },
+  "resolutionOrder": [
+    "components",
+    "semantics",
+    "primitives"
+  ]
+}
