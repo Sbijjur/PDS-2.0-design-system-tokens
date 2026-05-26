@@ -1,0 +1,190 @@
+{
+  "borders": {
+    "default": {
+      "light": {
+        "type": "color",
+        "value": "{color.greyscale.100}"
+      },
+      "medium": {
+        "type": "color",
+        "value": "{color.greyscale.200}"
+      },
+      "dark": {
+        "type": "color",
+        "value": "{color.greyscale.400}"
+      },
+      "darker": {
+        "type": "color",
+        "value": "{color.greyscale.800}"
+      }
+    },
+    "states": {
+      "error": {
+        "type": "color",
+        "value": "{color.red.700}"
+      },
+      "warning": {
+        "type": "color",
+        "value": "{color.yellow.500}"
+      },
+      "success": {
+        "type": "color",
+        "value": "{color.green.700}"
+      },
+      "brand": {
+        "type": "color",
+        "value": "{color.brand.500}"
+      },
+      "info": {
+        "type": "color",
+        "value": "{color.blue.700}"
+      }
+    }
+  },
+  "text": {
+    "default": {
+      "primary": {
+        "type": "color",
+        "value": "{color.greyscale.800}"
+      },
+      "secondary": {
+        "type": "color",
+        "value": "{color.greyscale.600}"
+      },
+      "tertiary": {
+        "type": "color",
+        "value": "{color.greyscale.500}"
+      },
+      "brand": {
+        "type": "color",
+        "value": "{color.brand.500}"
+      },
+      "disabled": {
+        "type": "color",
+        "value": "{color.greyscale.100}"
+      },
+      "negative": {
+        "type": "color",
+        "value": "{color.basics.white}"
+      }
+    },
+    "states": {
+      "error": {
+        "type": "color",
+        "value": "{color.red.700}"
+      },
+      "warning": {
+        "type": "color",
+        "value": "{color.yellow.300}"
+      },
+      "success": {
+        "type": "color",
+        "value": "{color.green.700}"
+      },
+      "brand": {
+        "type": "color",
+        "value": "{color.brand.500}"
+      },
+      "link": {
+        "type": "color",
+        "value": "{color.blue.700}"
+      }
+    }
+  },
+  "backgrounds": {
+    "neutrals": {
+      "white": {
+        "type": "color",
+        "value": "{color.basics.white}"
+      },
+      "lighter": {
+        "type": "color",
+        "value": "{color.greyscale.50}"
+      },
+      "light": {
+        "type": "color",
+        "value": "{color.greyscale.100}"
+      },
+      "medium": {
+        "type": "color",
+        "value": "{color.greyscale.300}"
+      },
+      "dark": {
+        "type": "color",
+        "value": "{color.greyscale.700}"
+      },
+      "darker": {
+        "type": "color",
+        "value": "{color.greyscale.800}"
+      }
+    },
+    "blues": {
+      "lighter": {
+        "type": "color",
+        "value": "{color.blue.30}"
+      },
+      "light": {
+        "type": "color",
+        "value": "{color.blue.50}"
+      },
+      "medium": {
+        "type": "color",
+        "value": "{color.blue.100}"
+      },
+      "dark": {
+        "type": "color",
+        "value": "{color.brand.500}"
+      }
+    }
+  },
+  "icons": {
+    "default": {
+      "primary": {
+        "type": "color",
+        "value": "{color.greyscale.800}"
+      },
+      "secondary": {
+        "type": "color",
+        "value": "{color.greyscale.500}"
+      },
+      "tertiary": {
+        "type": "color",
+        "value": "{color.greyscale.400}"
+      },
+      "brand": {
+        "type": "color",
+        "value": "{color.brand.500}"
+      },
+      "disabled": {
+        "type": "color",
+        "value": "{color.greyscale.100}"
+      },
+      "negative": {
+        "type": "color",
+        "value": "{color.basics.white}"
+      }
+    },
+    "states": {
+      "error": {
+        "type": "color",
+        "value": "{color.red.700}"
+      },
+      "warning": {
+        "type": "color",
+        "value": "{color.yellow.800}"
+      },
+      "success": {
+        "type": "color",
+        "value": "{color.green.700}"
+      },
+      "brand": {
+        "type": "color",
+        "value": "{color.brand.500}"
+      },
+      "link": {
+        "type": "color",
+        "value": "{color.blue.700}"
+      }
+    }
+  }
+}
